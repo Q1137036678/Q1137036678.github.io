@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q1137036678.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-06-16T16:07:05.713Z</updated>
+    <title>全聚德</title>
+    <updated>2020-06-16T16:22:20.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q1137036678.github.io/"/>
     <link rel="self" href="https://q1137036678.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>锦供|餐|烤</subtitle>
     <logo>https://q1137036678.github.io/images/avatar.png</logo>
     <icon>https://q1137036678.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 全聚德</rights>
+    <entry>
+        <title type="html"><![CDATA[热干面]]></title>
+        <id>https://q1137036678.github.io/post/re-gan-mian/</id>
+        <link href="https://q1137036678.github.io/post/re-gan-mian/">
+        </link>
+        <updated>2020-06-16T16:17:15.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://q1137036678.github.io//post-images/1592324360786.jpg" alt="" loading="lazy"><br>
+热干面是我们武汉的风味小吃，在武汉的任何一家早餐店里都能看见它。</p>
+<p>热干面不仅吃起来香，看上去还挺好看。金黄色的面条上点缀着绿油油的葱花、红通通的辣椒酱、白色的蒜末和橘红色的辣萝卜丁，真是看了就让人垂涎三尺。</p>
+<p>热干面的做法也不难：先把带碱的、圆的细面条放进锅里，煮成九成熟。然后摊在面板上，用植物油拌匀，待用。客人来时，把面放进一个竹漏勺里，在开水里烫一下，捞起来，放进碗里。接着加入特制的芝麻酱、葱花、酱油、醋、辣椒酱和辣萝卜丁，一碗色香味俱全的正宗武汉热干面就做成了。热干面的味道可以跟必胜客的意大利面相媲美。我们武汉人吃热干面时喜欢喝一碗鸡蛋米酒。吃完后，嘴里溢满了芝麻酱和米酒的香味，令人回味无穷。客人们还可以根据自己的口味加入香菜，海带丝等配料。在武汉，做热干面最有名的要数江汉路上的蔡林记了。每次寒暑假回武汉，我第一件事就是去那儿吃碗热干面解馋。　我吃热干面的时候，喜欢挑一大筷子，然后“嘘”地一下子吸进嘴里，因为我觉得那样吃特别爽。吃一口热干面，喝一口香甜的米酒，那真是妙不可言呀。有时，我使劲吸了一口面，结果把芝麻酱弄得满嘴都是，看上去就像个“小老头儿”，有趣极了。</p>
+<p>虽然我也品尝过不少各地的名小吃，但我最喜欢的还是家乡的热干面。现在我身在他乡，有时做梦都在吃热干面，醒来后发现枕头上湿了一大块……</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://q1137036678.github.io/post/hello-gridea/</id>
